@@ -40,3 +40,4 @@ Each bit of the adder is built using **transistor-based logic gates** that repli
 
 This project is inspirated by [Hyperspace Pyrate](https://youtu.be/X31B1pVow1o?si=5MChZk4HNTxjwTem)
 And if you want something you can type me on "reno888" discord
+This is my first time doing something like this so you can type me what should I do better next time
